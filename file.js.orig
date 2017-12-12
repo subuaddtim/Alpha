@@ -3,10 +3,18 @@
 <title>Page Title</title>
 </head>
 <body>
+
+<<<<<<< HEAD
 <h1>My Second Heading</h1>
 <p>My Fifth paragraph.</p>
+=======
 <h1>My Third Heading</h1>
+<<<<<<< HEAD
 <p>My Seven paragraph.</p>
+=======
+<p>My Six paragraph.</p>
+>>>>>>> e49c5dbbb146d8ea1e0f9844908d075b8bcfbff2
+>>>>>>> c042ec7f55fa30eb1d9579f488759ab2d72260d2
 
 </body>
 </html>
